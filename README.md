@@ -1,9 +1,9 @@
 # images
-Small ruby-on-rails app: uploads and lists images
+Small ruby-on-rails app: uploads and lists images  
 All configs are as default as possible
 
 # usage
-Run tests: rake cucumber
+Run tests: rake cucumber  
 Start server: rails server and then go to localhost:3000
 
 # files of interest
